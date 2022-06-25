@@ -1,13 +1,13 @@
 {
   "name": "cra-template-yashensha",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
   "description": "React-sass template",
-  "main":"template.json",
+  "main": "template.json",
   "license": "MIT",
   "engines": {
     "node": ">=14"
@@ -18,5 +18,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
 }
